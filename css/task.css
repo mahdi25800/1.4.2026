@@ -27,3 +27,12 @@ nav li{
     nav li a{
         text-decoration: none;
     }
+    fieldset{
+        width: 800px;
+        height: 300px;
+    }
+    .task02{
+        width: 300px;
+        height: 200px;
+    }
+    
