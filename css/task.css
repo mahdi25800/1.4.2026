@@ -36,4 +36,8 @@ nav li{
         width: 700px;
         height: 100px;
     }
-    
+    section .team div{
+        width: 150px;
+        height: 150px;
+        border: 2px: solid black;
+    }
